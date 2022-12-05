@@ -1,4 +1,5 @@
-# Project 6 - Ethereum Dapp for Tracking Items through Supply Chain
+# Supply Chain Tracking DApp
+Ethereum DApp that demonstrates a Supply Chain flow between a Seller and Buyer.
 
 ### ##########################################################################
 
